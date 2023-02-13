@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/bg_background.xml" value="0.2125" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_android.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_docs.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_dropdown.xml" value="0.2125" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_image.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2125" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_music.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_pdf.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/drawable/ic_play.xml" value="0.2235" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/file_container.xml" value="0.2" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/fragement_card.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/fragement_home.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/fragement_internal.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/option_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/layout/option_layout.xml" value="0.2421875" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/anshu singh/AndroidStudioProjects/FileExplorer/app/src/main/res/xml/provider_path.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

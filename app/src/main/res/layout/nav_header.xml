@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/green"
+    android:gravity="bottom">
+
+    <ImageView
+        android:src="@drawable/file_explorer_logo"
+        android:layout_gravity="start"
+        android:layout_width="60dp"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:text="File Explorer"
+        android:textSize="16dp"
+        android:paddingTop="8dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="By Anshu Singh"
+        android:textSize="14dp"
+        android:paddingTop="4dp"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
